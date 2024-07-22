@@ -2,7 +2,7 @@ Meal App
 
 
 
-![WhatsApp Image 2024-07-22 at 20 47 33_e96f13f4](https://github.com/user-attachments/assets/8a04dce6-b229-4bed-9278-fb1bd76a0a8d width="200" height="400")
+![WhatsApp Image 2024-07-22 at 20 47 33_e96f13f4](https://github.com/user-attachments/assets/8a04dce6-b229-4bed-9278-fb1bd76a0a8d = width="200" height="400")
 ![WhatsApp Image 2024-07-22 at 20 47 33_3d41dc29](https://github.com/user-attachments/assets/8d1b9588-6b21-49db-a056-5626c926e980)
 ![WhatsApp Image 2024-07-22 at 20 47 33_291ff278](https://github.com/user-attachments/assets/b9bc5702-933d-40c9-aae7-760933d0ca5d)
 ![WhatsApp Image 2024-07-22 at 20 47 34_d17cf847](https://github.com/user-attachments/assets/18f210f6-e89e-435f-b00b-10a570f42b1b)
